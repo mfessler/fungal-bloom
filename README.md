@@ -8,9 +8,9 @@ The process was rewarding and a surprising amount of fun - I dabbled in the IF c
 
 The full game was released on December 8th, 2018. Some reviews on release:
 
-https://boingboing.net/2018/12/09/massively-multi-developer.html
-https://emshort.blog/2018/12/08/cragne-manor/
-http://blog.zarfhome.com/2018/12/cragne-manor-is-available-to-play.html
+- https://boingboing.net/2018/12/09/massively-multi-developer.html
+- https://emshort.blog/2018/12/08/cragne-manor/
+- http://blog.zarfhome.com/2018/12/cragne-manor-is-available-to-play.html
 
 ## Why am I releasing this?
 
