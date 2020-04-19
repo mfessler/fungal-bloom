@@ -16,15 +16,15 @@ The full game was released on December 8th, 2018. Some reviews on release:
 
 The project was written in [Inform 7](http://inform7.com), a domain-specific language for interactive fiction. I'm publishing the source code for my specific room, in the form that I submitted it to the organizers. I'm doing this for a few reasons:
 
-1) To let people see the work -- my room wound up being fairly far along in the game, so many people may not have had a chance to see it. It's hard to say to friends, "Hey, check out this project I was part of. But it'll take you a few hours of puzzle solving to get to my bit." 
+1) To let people see the work -- my room wound up being fairly far along in the game, so many people may not have had a chance to see it. It's hard to say to friends, "Hey, check out this project I was part of. But it'll take you a few hours of puzzle solving amidst Lovecraftian horror to get to my bit." 
 1) To demonstrate some of the ways that a relative newcomer to Inform 7 can use the features of the language to tell a short interactive story
-1) To document some of the creative process, dead ends, and reworked ideas that were part of the writing and testing process. Also, regrettable code, and jokes I had to omit.
+1) To document some of the creative process, dead ends, and reworked ideas that were part of the writing and testing process. Also included: regrettable code, and jokes I had to omit (regrettable and otherwise).
 
 ## Technical details
 
-This repo will contain Inform source code for my room, as well as a compiled game file that can be run on [Lectrote](https://github.com/erkyrath/lectrote). 
+This repo will contain Inform source code for my room, as well as a compiled game file that can be run on [Lectrote](https://github.com/erkyrath/lectrote). (That's an interpreter than runs on Mac, Windows and Linux)
 
-I'm also inclding a copy of the Inform extension "Cragne Suite.i7x" that was required for the project, in case anyone would like to play with the code themselves.
+I'm also including a copy of the Inform extension "Cragne Suite.i7x" that was required for the project, in case anyone would like to play with the code themselves in Inform 7. 
 
 ## Why "Fungal Bloom"?
 
