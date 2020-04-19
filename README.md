@@ -26,5 +26,7 @@ This repo will contain Inform source code for my room, as well as a compiled gam
 
 I'm also inclding a copy of the Inform extension "Cragne Suite.i7x" that was required for the project, in case anyone would like to play with the code themselves.
 
+## Why "Fungal Bloom"?
 
+All will become clear. 
 
