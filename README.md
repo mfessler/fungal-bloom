@@ -38,7 +38,7 @@ I've also included a PDF of my code, nicely formatted so you can actually read i
 The ID of my room, used by Ryan and Jenni to help integrate everyone else's work.
 
 ### Why do so many things begin with "mf-"?
-Again, to help with integration, so that the stuff in my room and the actions I defined didn't conflict with other author's use of the same words in their room. And "mf" is my initials, so get your mind out of the gutter. (I was tempted, though, to find an excuse to include "remove mf-snakes from mf-plane".) 
+Again, to help with integration, so that the stuff in my room and the actions I defined didn't conflict with other authors' use of the same words in their room. And "mf" is my initials, so get your mind out of the gutter. (I was tempted, though, to find an excuse to include "remove mf-snakes from mf-plane".) 
 
 ### What's the deal with Section 3 ("Fungal contagion")? 
 Every turn the player is holding a fungally contaminated item, there's a 5% chance that its smell will spread to something else the player is holding. This happens silently, so players usually don't notice that some of their inventory is described as "(smelling faintly of mildew)" until much later. It's totally harmless and has no effect on the rest of the game, and my testers who noticed it were greatly amused. But.
